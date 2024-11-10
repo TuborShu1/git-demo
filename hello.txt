@@ -6,3 +6,7 @@ Hello Git this is hot-fix branch add
 this is remote changed
 this is other add
 ssh test
+# Add section below to it
+Host github.com
+  Hostname ssh.github.com
+  Port 443
